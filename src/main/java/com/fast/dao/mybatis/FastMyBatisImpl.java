@@ -15,6 +15,8 @@ import java.util.Map;
 /**
  * 扩展MyBatis FastDB执行器实现
  *
+ * MyBatis插件模组
+ *
  * @author 张亚伟 https://github.com/kaixinzyw
  */
 public class FastMyBatisImpl<T> implements DaoActuator<T> {
